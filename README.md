@@ -6,7 +6,7 @@ Este repositorio contiene soluciones a los problemas de Project Euler.
 
 El repositorio está organizado por problema. Cada problema tiene su propia carpeta, que contiene el código de la solución y una descripción del problema.
 
-Por ejemplo, la carpeta `problem1` contiene la solución al problema 1 de Project Euler.
+Por ejemplo, la carpeta `problem001` contiene la solución al problema 1 de Project Euler.
 
 ## Contribuciones
 
