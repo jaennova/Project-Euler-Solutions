@@ -4,7 +4,7 @@ Este repositorio contiene soluciones a los problemas de Project Euler.
 
 ## Estructura del repositorio
 
-El repositorio está organizado por problema. Cada problema tiene su propia carpeta, que contiene el código de la solución y una descripción del problema.
+El repositorio está organizado por problema. Cada problema tiene su propia carpeta, que contiene el código de la solución y una descripción del problema. Este puede ser realizado en cualquier lenguaje.
 
 Por ejemplo, la carpeta `problem001` contiene la solución al problema 1 de Project Euler.
 
