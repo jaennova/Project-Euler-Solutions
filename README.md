@@ -2,6 +2,10 @@
 
 Este repositorio contiene soluciones a los problemas de Project Euler.
 
+## Que es **Project Euler**?
+
+[Project Euler](https://projecteuler.net/archives) es una serie de desafiantes problemas matemáticos/de programación informática que requerirán algo más que conocimientos matemáticos para resolverlos. Aunque las matemáticas te ayudarán a llegar a métodos elegantes y eficientes, para resolver la mayoría de los problemas será necesario el uso de una computadora y habilidades de programación.
+
 ## Estructura del repositorio
 
 El repositorio está organizado por problema. Cada problema tiene su propia carpeta, que contiene el código de la solución y una descripción del problema. Este puede ser realizado en cualquier lenguaje.
