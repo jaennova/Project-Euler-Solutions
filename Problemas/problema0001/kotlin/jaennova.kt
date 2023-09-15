@@ -6,5 +6,5 @@ fun main() {
             sumaTotal +=i
         }
     }
-    println(sumaTotal) // Respuesta: 233168
+    println(sumaTotal)
 }
